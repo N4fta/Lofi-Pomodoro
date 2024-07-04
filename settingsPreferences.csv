@@ -1,0 +1,7 @@
+MusicName,coffee-chill-out
+MusicVolume,0.06
+SountrackName,light-rain
+SountrackVolume,0.28
+BackgroundName,rainy_scene
+TimerFocus,"[10, 0, 0]"
+TimerBreak,"[10, 11, 8]"
