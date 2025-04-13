@@ -20,9 +20,8 @@
 
 <!-- Animated Screenshot-->
 
-<video width="400" height="600" controls>
-  <source src="readme-images/LofiPomodoro-Loop.mp4" type="video/mp4">
-</video>
+![](readme-images/LofiPomodoro-Loop.mp4)
+![](readme-images/LofiPomodoro-Loop.gif)
 
 ## Key Features
 
