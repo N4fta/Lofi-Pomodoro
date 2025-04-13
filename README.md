@@ -19,9 +19,9 @@
 </p>
 
 <!-- Animated Screenshot-->
-
-![](readme-images/LofiPomodoro-Loop.mp4)
-![](readme-images/LofiPomodoro-Loop.gif)
+<div align=center>
+<img src="readme-images/LofiPomodoro-Loop.gif" alt="" width="400">
+</div>
 
 ## Key Features
 
